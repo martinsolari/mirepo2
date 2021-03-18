@@ -24,4 +24,10 @@ Una lista aparte
 * Breaking Bad
 * Naruto
 
-TEST
+Otra de series
+* Better Call Saul
+* The Big Bang Theory
+* FRIENDS
+* Vikings
+* Brooklyn 99
+ 
