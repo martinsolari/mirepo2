@@ -15,6 +15,7 @@ Esto es un ejmplo del formato Markdown
 * Rocky
 * Terminator
 * Interstellar
+* Pulp Fiction
 
 Una lista aparte
 * Game of Thrones
@@ -24,6 +25,7 @@ Una lista aparte
 * Breaking Bad
 * Naruto
 * Nicky Jam: el ganador
+* The Sopranos
 
 Otra de series
 * Better Call Saul
