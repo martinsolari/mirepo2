@@ -23,6 +23,7 @@ Una lista aparte
 * Peaky Blinders
 * Breaking Bad
 * Naruto
+* Nicky Jam: el ganador
 
 Otra de series
 * Better Call Saul
