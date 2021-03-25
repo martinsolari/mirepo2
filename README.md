@@ -33,4 +33,6 @@ Otra de series
 * FRIENDS
 * Vikings
 * Brooklyn 99
+* Game of Thrones
+
  
