@@ -37,6 +37,7 @@ Otra de series
 
 ## Nominadas al Oscar
 * El Señor de los Anillos: Las dos torres
+* El Señor de los Anillos: La comunidad del anillo
 * Birdman (esta no me gustó)
 * Capitán de Mar y Guerra
 
