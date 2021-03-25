@@ -48,6 +48,6 @@ Ver Netflix y servicios de streaming
 
 
 ## Nueva lista
-
+* WandaVision
 
  
