@@ -37,7 +37,7 @@ Otra de series
 
 ## Nominadas al Oscar
 * El Señor de los Anillos: El Retorno del Rey
-* Birdman
+* Birdman (esta no me gustó)
 * Capitán de Mar y Guerra
 
  
