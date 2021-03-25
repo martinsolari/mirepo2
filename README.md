@@ -43,5 +43,7 @@ Otra de series
 
 ## En Cartelera
 * Suspendida por la emergencia sanitaria
+Ver Netflix y servicios de streaming
+
 
  
