@@ -32,7 +32,7 @@ Otra de series
 * The Big Bang Theory
 * FRIENDS
 * Vikings
-* Brooklyn nine nine
+* Brooklyn 99
 * Game of Thrones
 
 ## Nominadas al Oscar
