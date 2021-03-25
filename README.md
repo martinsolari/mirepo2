@@ -41,4 +41,7 @@ Otra de series
 * Birdman (esta no me gustó)
 * Capitán de Mar y Guerra
 
+## En Cartelera
+* Suspendida por la emergencia sanitaria
+
  
