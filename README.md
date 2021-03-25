@@ -40,6 +40,7 @@ Otra de series
 * El Señor de los Anillos: La comunidad del anillo
 * Birdman (esta no me gustó)
 * Capitán de Mar y Guerra
+* Titanic
 
 ## En Cartelera
 * Suspendida por la emergencia sanitaria
