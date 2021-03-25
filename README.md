@@ -35,4 +35,9 @@ Otra de series
 * Brooklyn 99
 * Game of Thrones
 
+## Nominadas al Oscar
+* El Señor de los Anillos: El Retorno del Rey
+* Birdman
+* Capitán de Mar y Guerra
+
  
