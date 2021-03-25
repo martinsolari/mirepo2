@@ -36,7 +36,7 @@ Otra de series
 * Game of Thrones
 
 ## Nominadas al Oscar
-* El Señor de los Anillos: El Retorno del Rey
+* El Señor de los Anillos: Las dos torres
 * Birdman (esta no me gustó)
 * Capitán de Mar y Guerra
 
